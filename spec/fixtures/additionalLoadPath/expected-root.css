@@ -1,0 +1,17 @@
+.variables {
+  font-weight: bold; }
+
+.deep-mixin {
+  color: red; }
+
+.mixins {
+  color: red; }
+
+.thing {
+  color: yellow; }
+
+.stylish-style {
+  font-weight: bold; }
+
+.root {
+  font-weight: bold; }
